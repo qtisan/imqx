@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Halant Light'), local('Halant-Light'), url(Halant300.woff) format('woff');
+}
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Halant'), local('Halant-Regular'), url(Halant400.woff) format('woff');
+}
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Halant Bold'), local('Halant-Bold'), url(Halant700.woff) format('woff');
+}
+@font-face {
+  font-family: 'Halant';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Halant Italic'), local('Halant-Italic'), url(HalantItalic.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'FontEllo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Font Ello'), local('FontEllo-Regular'), url(fontello.woff) format('woff');
+}
